@@ -1,0 +1,3 @@
+module AbbreviateCmds {
+	requires spigot;
+}

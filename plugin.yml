@@ -1,0 +1,5 @@
+version: 1.0
+name: AbbreviateCmds
+main: com.keyder.plugin.Main
+author: Keyder
+description: Ejecuta comandos abreviados en una situacion en que los necesites rapidamente!
